@@ -1,0 +1,7 @@
+{
+  "name": "Virtual Stylist AI",
+  "description": "Um assistente de guarda-roupa inteligente que cria looks completos a partir de uma única peça de roupa usando as capacidades de visão e geração de imagem do Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
